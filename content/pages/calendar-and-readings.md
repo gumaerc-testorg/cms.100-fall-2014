@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The following section lists the media viewed and discussed in class,
+  the readings assigned for each session, and the due dates for assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
