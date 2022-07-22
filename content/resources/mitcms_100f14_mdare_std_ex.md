@@ -5,6 +5,7 @@ file: /courses/cms-100-introduction-to-media-studies-fall-2014/a2becd27a445bb44b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: CMS.100 Media Research Paper
 uid: a2becd27-a445-bb44-b0a2-2e6ed4deadd8
 ---
 This resource contains information related to media research paper.
-

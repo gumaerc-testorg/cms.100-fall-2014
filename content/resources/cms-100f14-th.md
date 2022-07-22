@@ -15,10 +15,10 @@ image_metadata:
   image-alt: A collage showing a woman lying on a television / record player hybrid
     in outer space.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: cms-100f14-th.jpg
 uid: 6aa0a4b1-6953-2c1c-b2d9-faf295cc6a37
 ---
 Students will examine several forms of media in this course, including music and television. This course looks at the functions of media and its cultural impact on our daily lives. Image courtesy of Eugenia Loli on flickr. License CC BY.
-
