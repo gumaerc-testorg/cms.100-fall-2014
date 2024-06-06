@@ -10,8 +10,8 @@ file_type: image/jpeg
 image_metadata:
   caption: Students will examine several forms of media in this course, including
     music and television. This course looks at the functions of media and its cultural
-    impact on our daily lives. (Image courtesy of {{% resource_link "0e2f2707-d68b-4030-9204-4b10ff5664da"
-    "Eugenia Loli" %}} on flickr. License CC BY.)
+    impact on our daily lives. (Image courtesy of [Eugenia Loli](https://flic.kr/p/eXMWLy)
+    on flickr. License CC BY.)
   credit: Image courtesy of Eugenia Loli on flickr. License CC BY.
   image-alt: A collage showing a woman lying on a television / record player hybrid
     in outer space.
