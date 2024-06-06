@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to media research interviews.
 file: /courses/cms-100-introduction-to-media-studies-fall-2014/bc8c76d15ba0d5c77f9cd462351d2585_MITCMS_100F14_MdRschIntQue.pdf
+file_size: 97684
 file_type: application/pdf
 learning_resource_types:
 - Assignments
