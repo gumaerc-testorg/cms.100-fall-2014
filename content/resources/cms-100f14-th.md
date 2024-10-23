@@ -4,7 +4,7 @@ description: Students will examine several forms of media in this course, includ
   music and television. This course looks at the functions of media and its cultural
   impact on our daily lives. Image courtesy of Eugenia Loli on flickr. License CC
   BY.
-file: /courses/cms-100-introduction-to-media-studies-fall-2014/6aa0a4b169532c1cb2d9faf295cc6a37_cms-100f14-th.jpg
+file: /ol-ocw-studio-app/courses/cms-100-introduction-to-media-studies-fall-2014/6aa0a4b169532c1cb2d9faf295cc6a37_cms-100f14-th.jpg
 file_size: 8297
 file_type: image/jpeg
 image_metadata:
