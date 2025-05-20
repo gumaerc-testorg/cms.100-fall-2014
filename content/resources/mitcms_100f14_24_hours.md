@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to 24 hours paper.
-file: /ol-ocw-studio-app/courses/cms-100-introduction-to-media-studies-fall-2014/c0c168858b25c9a62cde16574f984a80_MITCMS_100F14_24_Hours.pdf
+file: /courses/cms-100-introduction-to-media-studies-fall-2014/c0c168858b25c9a62cde16574f984a80_MITCMS_100F14_24_Hours.pdf
 file_size: 90412
 file_type: application/pdf
 learning_resource_types:
