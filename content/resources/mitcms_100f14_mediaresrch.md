@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to media research paper.
-file: /ol-ocw-studio-app/courses/cms-100-introduction-to-media-studies-fall-2014/dc3403ac29eddcdfba3461db67d10c0e_MITCMS_100F14_MediaResrch.pdf
+file: /courses/cms-100-introduction-to-media-studies-fall-2014/dc3403ac29eddcdfba3461db67d10c0e_MITCMS_100F14_MediaResrch.pdf
 file_size: 97579
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to media analysis paper.
-file: /ol-ocw-studio-app/courses/cms-100-introduction-to-media-studies-fall-2014/e8d0139c2c2bac2e92b69242b8d711bc_MITCMS_100F14_Mda_Anal_Std.pdf
+file: /courses/cms-100-introduction-to-media-studies-fall-2014/e8d0139c2c2bac2e92b69242b8d711bc_MITCMS_100F14_Mda_Anal_Std.pdf
 file_size: 137907
 file_type: application/pdf
 learning_resource_types:
